@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main() 
@@ -16,7 +15,7 @@ int main()
         cout << "Please enter a valid input." << endl;
         return 0;
     }
-    cout << "What mode of transportation would you like to take (B, T or A)?" << endl;
+    cout << "What mode of transportation would you like to take (B, T, or A)?" << endl;
     cin >> transportation;
 
     // input validation: budget must be positive
