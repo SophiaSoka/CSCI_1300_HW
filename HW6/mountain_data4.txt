@@ -1,0 +1,5 @@
+Pikes Peak|10000
+Vermilion Peak|10000
+Big Mountain|10000
+Snowmass Mountain|10000
+Marcy Mountain |10000
